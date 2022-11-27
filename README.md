@@ -1,3 +1,3 @@
 # packetTreacer
 
-This is a project about creation of logica structure of the company/organization's network infrastructure
+This is a project all about creation of logical structure of the company/organization's network infrastructure
